@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhay Singh</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">Aspiring Full Stack Developer From India</h3>
 
 
 - 🌱 I’m currently learning **React,Redux**
