@@ -2,15 +2,15 @@
 <h3 align="center">Aspiring Full Stack Developer From India</h3>
 
 
-- 🌱 I’m currently learning **React,Redux**
+- 🌱 I’m currently learning **NodeJS,ExpressJS**
 
 - 👨‍💻 All of my projects are available at [will add](will add)
 
-- 💬 Ask me about **JavaScript,HTML,CSS,Node.js,Express,React.js**
+- 💬 Ask me about **JavaScript,HTML,CSS,NodeJS,ExpressJS,MongoDB**
 
 - 📫 How to reach me **abhay.jhonsmith@gmail.com**
 
-- 📄 Know about my experiences [will add](will add)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1OdiqR_I0GrlsxnHug36fZLFJy_dn-bhC/view?usp=sharing](https://drive.google.com/file/d/1OdiqR_I0GrlsxnHug36fZLFJy_dn-bhC/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
